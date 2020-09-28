@@ -1,0 +1,3 @@
+php.ini -> expose_php = Off
+httpd.conf ->  ServerTokens Prod
+               ServerSignature Off
